@@ -6,7 +6,6 @@ body {
 }
 a
 { 
-  background-color:red;
-  color:red;
+  font-color:red;
   font-weight:500;
 }
